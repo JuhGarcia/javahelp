@@ -1,0 +1,17 @@
+body{
+    border: 8px solid rgb(198, 213, 32);
+    
+    margin:0 auto;
+  text-align: center;
+  color: rgb(0, 0, 0);
+    background-color: rgb(200, 224, 245);
+    align-items: center;
+    
+    width: 100%;
+    max-width: 900px;
+    padding: 20px;
+    background-color: rgb(248, 242, 170);
+    box-shadow: 0px 0px 10px rgba(225, 203, 125, 0.1);
+    border-radius: 10px;
+
+}
